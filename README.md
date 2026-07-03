@@ -5,7 +5,7 @@ Com-Sci Student
 ---------------
 
 * 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [aslam.nikware2006@gmail.com](mailto:aslam.nikware2006@gmail.com)
+* ✉️  You can contact me at 
 * 🧠  I'm learning Hmtl Css JS Python C++
 
 ### Skills
